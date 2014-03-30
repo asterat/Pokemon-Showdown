@@ -7,12 +7,12 @@ exports.Formats = [
 	///////////////////////////////////////////////////////////////////
 
 	{
-		name: "OU (beta)",
-		section: "XY Singles",
-
-		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
-		noPokebank: true,
-		banlist: ['Uber', 'Soul Dew']
+		name: "Scalemons",
+		section: "Other Metagames",
+		
+		mod: 'Scalemons',
+		ruleset: ['Pokemon', 'OHKO Clause', 'Endless Battle Clause', 'Team Preview', 'Sleep Clause'],
+		banlist: ['Gengarite', 'Soul Dew', 'Kangaskhanite','Light Ball','Thick Club','DeepSeaTooth','DeepSeaScale','Eviolite','Mawilite','Medichamite','Huge Power','Pure Power']
 	},
 	{
 		name: "Ubers (beta)",
