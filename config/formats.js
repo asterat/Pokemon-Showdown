@@ -15,10 +15,10 @@ exports.Formats = [
 		banlist: ['Gengarite', 'Soul Dew', 'Kangaskhanite','Light Ball','Thick Club','DeepSeaTooth','DeepSeaScale','Eviolite','Mawilite','Medichamite','Huge Power','Pure Power']
 	},
 	{
-		name: "Ubers (beta)",
+		name: "TM Mons",
 		section: "XY Singles",
 		
-		mod:'bitcoinmons'
+		mod:'7'
 		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
 		banlist: []
 	},
