@@ -17,9 +17,9 @@ exports.Formats = [
 	{
 		name: "Ubers (beta)",
 		section: "XY Singles",
-
-		ruleset: ['Pokemon', 'Standard Ubers', 'Team Preview'],
-		noPokebank: true,
+		
+		mod:'bitcoinmons'
+		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
 		banlist: []
 	},
 	{
